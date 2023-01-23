@@ -1,15 +1,22 @@
-# challenge.two
-// GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them //
+# Professional-Portfolio
 
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+## Description
+This is the start of a professional portfolio specific to my professional and academic progress. This portfolio will allow companies and employers to view my accolades as an aspiring software developer as well as being able to deploy and check out my future projects and applications. In doing so will help me network and eventually find the right ways to fully sharpen my portfolio to be hire-ready.
+
+## Installation
+No installation needed for this portfolio. 
+
+## Usage
+From the front page, you will have four links across a navigation bar that will take you to a certain section of the page. In each of those links are more details about myself and my previous/current work. 
+For the "About Me" link, it will be describing small details about myself and my journey to starting software development.
+For the "Work" link, it will be filled with previous and current work throughout this course.
+For the "Contacts" page, there will be ways to contact me through via phone and/or email.
+For the "Resume" page, there will be a link that will redirect you to my profile on LinkedIn.
+
+## Credit
+Tyler Vu 
+
+## License
+N/A
+
+
